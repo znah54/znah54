@@ -1,3 +1,10 @@
+<p align='center'>
+  <a href="https://github.com/znah54">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=270&color=gradient&text=KK's%20Lecture%20Repository&section=header&reversal=false&textBg=false&fontColor=005174&fontSize=40&animation=blinking&fontAlign=50"/>
+  </a>
+</p>
+
+  
   ## Profile
   - Name : Ko ByeongHak
   - Email : xcxcxc54@naver.com
